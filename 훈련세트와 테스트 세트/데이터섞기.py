@@ -22,7 +22,7 @@
 # plt.ylabel('weight')
 # plt.show()
 
-# kn=kn.fit(train_input, train_target)
+# kn=kn.fit(train_input, train_target) #k-near
 # kn.score(test_input, test_target)
 
 
